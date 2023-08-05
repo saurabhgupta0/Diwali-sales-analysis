@@ -5,7 +5,7 @@ Diwali Sales Analysis for Vrinda Store
 dataset taken from Kaggle.com
 
 overview:
-EDA Using Jupyter Notebook
+
 •	Performed data cleaning and manipulation
 •	Performed EDA using Pandas, Matplotlib, seaborn
 •	Improved customer experience by identifying potential customers across different states, occupation, gender and age group.
