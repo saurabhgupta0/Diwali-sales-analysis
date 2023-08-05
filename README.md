@@ -7,7 +7,7 @@ dataset taken from Kaggle.com
 problem statement
 
 which gender type and what location should we target in order to generate maximum revenue?
-which product category having high demand across india?
+which product category mostly demanded across india?
 
 overview:
 
