@@ -4,6 +4,11 @@ Diwali Sales Analysis for Vrinda Store
 (its an online shopping store where you can buy product based on you requirements)
 dataset taken from Kaggle.com
 
+problem statement
+
+which gender type and what location should we target in order to generate maximum revenue?
+which product category having high demand across india?
+
 overview:
 
 •	Performed data cleaning and manipulation
